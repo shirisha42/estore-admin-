@@ -16,7 +16,7 @@
     "@angular/core": "^14.3.0",
     "@angular/forms": "^14.3.0",
     "@angular/platform-browser": "^14.3.0",
-    "@angular/platform-browser-dynamic": "~^14.3.0",
+    "@angular/platform-browser-dynamic": "^14.3.0",
     "@angular/router": "^14.3.0",
     "@ng-bootstrap/ng-bootstrap": "^10.0.0",
     "aws-sdk": "^2.1087.0",
