@@ -27,6 +27,9 @@ pipeline {
                     sh "npm --version"
                     sh "node --version"
 
+                    //update angular cli
+                    sh "npm install -g @angular/cli@14.0.1"
+
                     //print the contents of ng binary directory for debugging
                     sh "ls ${env.WORKSPACE}/node_modules/@angular/cli/bin"
 
